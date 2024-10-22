@@ -1,16 +1,13 @@
-## Hi there 👋
+def __init__(self):
+    self.name = "André Luiz"
+    self.username = "Deezinn"
+    self.location = "Recife, Pernambuco"
+    self.email = "andrelsn4160@gmail.com"
+    self.hardskills = ["Python", "JavaScript", "Node", "MySQL", "Pandas", "Git"]
+    self.softskills = ["Problem Solving", "Teamwork", "Adaptability", "Critical Thinking"]
+    self.github = "https://github.com/Deezinn"
+    self.linkedin = "https://www.linkedin.com/in/andre-luiz-a7421430a"
+    self.bio = "A person who loves to learn a bit of everything, constantly curious and eager to expand knowledge in various fields."
 
-<!--
-**Deezinn/Deezinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def __str__(self):
+    return self.name
