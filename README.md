@@ -29,7 +29,7 @@ A curious person who loves to learn a bit of everything.
 Always seeking new challenges and opportunities to learn, currently diving into mobile development and data analysis with Python and Power BI.
 
 ## 📫 Contact Me
-Feel free to reach out via [email](andrelsn4160@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/andre-luiz-a7421430a).
+Feel free to reach out via [email](mailto:andrelsn4160@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/andre-luiz-a7421430a).
 
 ---
 
