@@ -1,7 +1,5 @@
 # Hi, I'm André Luiz! 👋
 
-![My Profile](https://media.licdn.com/dms/image/v2/D4D03AQE6mq613eGdog/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715818457038?e=1735171200&v=beta&t=BzAfzYiHN2NoxyArCuLlIfoegZ_AFqlXGnY0rzvKRNs) 
-
 ## About Me
 A curious person who loves to learn a bit of everything.
 
