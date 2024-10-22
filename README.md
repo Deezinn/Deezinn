@@ -31,6 +31,5 @@ Always seeking new challenges and opportunities to learn, currently diving into 
 ## 📫 Contact Me
 Feel free to reach out via [andrelsn4160@gmail.com](mailto:andrelsn4160@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/andre-luiz-a7421430a).
 
----
 
 **Thanks for visiting my profile!** ✨
