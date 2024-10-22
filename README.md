@@ -26,7 +26,7 @@ A curious person who loves to learn a bit of everything.
 - Critical Thinking
 
 ## Current Status
-Always seeking new challenges and opportunities to learn, currently diving into mobile development and data analysis with Python and Power BI.
+Always seeking new challenges and opportunities to learn, currently diving into data analysis with Python and Power BI.
 
 ---
 
