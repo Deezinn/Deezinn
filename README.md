@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deezinn&show_icons=true&theme=transparent)](https://github.com/Deezinn)  
 
-Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia, apaixonado por programação, desenvolvimento web e aprendizado contínuo. Adoro colaborar em projetos que fazem a diferença e explorar novas ferramentas e frameworks.  
+Bem-vindo ao meu perfil! Aqui compartilho minha jornada como desenvolvedor e entusiasta de tecnologia.  
 
 ---
 
@@ -31,14 +31,11 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia, apaixonado por program
 
 ---
 
-## 🎯 Objetivos  
-- Contribuir em projetos de código aberto.  
-- Desenvolver aplicações inovadoras para problemas reais.  
-- Construir uma comunidade colaborativa no Discord e GitHub.  
-
----
-
-## 🏆 Estatísticas  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deezinn&layout=compact&theme=transparent)](https://github.com/Deezinn)  
-
----
+## 🐍 Contribuições do GitHub  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <img alt="Animação do gráfico de contribuições no GitHub" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
