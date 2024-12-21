@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil! Aqui compartilho minha jornada como desenvolvedor e ent
 ## 📋 Sobre mim  
 - **Nome:** André Luiz  
 - **Localização:** Recife, Pernambuco  
-- **E-mail:** [andre.devegamer@gmail.com](mailto:andre.devegamer@gmail.com)  
+- **E-mail:** [developer.andrelz@gmail.com](mailto:developer.andrelz@gmail.com)  
 - **WhatsApp:** [(81) 98187-3605](https://wa.me/5581981873605)  
 
 ---
