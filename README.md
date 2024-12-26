@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil! Aqui compartilho minha jornada como desenvolvedor e ent
 <div>
  <a href="https://discord.gg/deezinn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>  
  <a href="mailto:developer.andrelz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
- <a href="https://www.linkedin.com/in/andré-luiz-a7421430a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+ <a href="www.linkedin.com/in/devandrelz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
  <a href="https://github.com/Deezinn" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
 </div>  
 
