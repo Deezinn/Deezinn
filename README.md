@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </div>
 
-<p>✨ Welcome to my profile! Here I share my journey as a developer and technology enthusiast.</p>
-
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deezinn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
