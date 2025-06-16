@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
@@ -23,7 +22,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deezinn&theme=vue-dark&hide_border=true"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deezinn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deezinn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook"/>
 </div>
 
 <hr>
