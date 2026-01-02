@@ -48,7 +48,6 @@ Meu objetivo é criar soluções bem estruturadas, confiáveis e orientadas a da
 ## 📬 Contato
 
 📧 **Email:** [developer.andrelz@gmail.com](mailto:developer.andrelz@gmail.com)
-🔗 **LinkedIn:** [devandrelz](https://www.linkedin.com/in/devandrelz)
 📱 **WhatsApp:** [(81) 98187-3605](https://wa.me/5581981873605)
 
 ---
