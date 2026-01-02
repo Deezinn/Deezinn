@@ -20,6 +20,7 @@ Meu objetivo é criar soluções bem estruturadas, confiáveis e orientadas a da
 * 🔹 Desenvolvimento de **pipelines de dados econômicos** com arquitetura modular
 * 🔹 Criação de **ETLs robustas em Python**, com validação, reprocessamento e idempotência
 * 🔹 Construção de **APIs com FastAPI** para consumo de dados por dashboards e aplicações
+* 🔹 Desenvolvimento de **dashboards interativos** com Plotly/Dash
 * 🔹 Automação de dados para uso em análises e ferramentas de BI
 
 ---
@@ -30,6 +31,7 @@ Meu objetivo é criar soluções bem estruturadas, confiáveis e orientadas a da
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
@@ -39,26 +41,14 @@ Meu objetivo é criar soluções bem estruturadas, confiáveis e orientadas a da
 ## 📈 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deezinn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deezinn&theme=github-compact&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deezinn&theme=vue-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deezinn&theme=vue-dark&layout=compact&hide_border=true&hide=jupyter%20notebook" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deezinn&theme=vue" />
-</p>
-
 ---
 
 ## 📬 Contato
 
 📧 **Email:** [developer.andrelz@gmail.com](mailto:developer.andrelz@gmail.com)
+🔗 **LinkedIn:** [devandrelz](https://www.linkedin.com/in/devandrelz)
 📱 **WhatsApp:** [(81) 98187-3605](https://wa.me/5581981873605)
 
 ---
