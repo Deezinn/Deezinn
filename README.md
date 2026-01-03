@@ -38,12 +38,14 @@ Meu objetivo é criar soluções bem estruturadas, confiáveis e orientadas a da
 
 ---
 
-## 📈 GitHub Performance
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deezinn&theme=github-compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.zcy.dev/api?username=Deezinn&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
 </p>
----
 
 ## 📬 Contato
 
