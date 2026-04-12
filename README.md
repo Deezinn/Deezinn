@@ -1,39 +1,24 @@
-<h1 align="center">👋 Hi, I'm André Luiz</h1>
-
 <p align="center">
-💻 Programador Python<br>
-📍 Recife, Pernambuco — Brasil.
+Python Developer · Recife, Brasil
 </p>
 
----
-
-<h2 align="center">👨‍💻 Sobre mim</h2>
-
 <p align="center">
-Python Developer<br>
-Fã de FastAPI e alquimista do SQLAlchemy 🧪
+  <img src="https://img.shields.io/badge/python-111?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-111?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlalchemy-111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/postgresql-111?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-111?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react%20native-111?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next.js-111?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
----
-
-<h2 align="center">🚀 Tech Stack</h2>
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="mailto:developer.andrelz@gmail.com">
+    <img src="https://img.shields.io/badge/email-111?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5581981873605">
+    <img src="https://img.shields.io/badge/whatsapp-111?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
-
----
-
-<h2 align="center">📬 Contato</h2>
-
-<p align="center">
-📧 <a href="mailto:developer.andrelz@gmail.com">developer.andrelz@gmail.com</a><br>
-📱 <a href="https://wa.me/5581981873605">(81) 98187-3605</a>
-</p>
-
----
