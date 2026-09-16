@@ -8,7 +8,6 @@ Python Developer · Recife, Brasil
   <img src="https://img.shields.io/badge/sqlalchemy-111?style=flat-square"/>
   <img src="https://img.shields.io/badge/postgresql-111?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-111?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20native-111?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-111?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
